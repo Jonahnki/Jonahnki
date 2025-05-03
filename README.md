@@ -27,12 +27,19 @@ Whether it’s decoding pathogen evolution or building microbial systems for Mar
 
 ## 🧰 Tools & Tech I Work With
 
-| Language | Frameworks/Tools | Domain Expertise |
-|----------|------------------|------------------|
-| Python 🐍 | Biopython, Pandas, Streamlit | Genomics, Synthetic Biology |
-| R 📊 | ggplot2, tidyverse | Epidemiological Modeling |
-| Bash 🖥️ | Linux CLI, Git, Shell scripting | Workflow Automation |
-| Others 🛠️ | NCBI tools, MEGA, Galaxy, AMDock | Structural Biology, Bioinformatics |
+| Category             | Tools & Languages                                                                 |
+|----------------------|------------------------------------------------------------------------------------|
+| **Languages**         | Python, R, Bash, Markdown, LaTeX                                                  |
+| **Bioinformatics**    | Biopython, NCBI EDirect, Galaxy, BLAST, MEGA, SnapGene Viewer, Clustal Omega      |
+| **Data Science & Viz**| Pandas, Matplotlib, Seaborn, ggplot2, tidyverse, Streamlit, Excel                 |
+| **Genomics**          | Ensembl, UCSC Genome Browser, SRA Toolkit, FASTA/FASTQ, BEDTools                  |
+| **Linux & CLI**       | Arch Linux, Ubuntu, Git, Shell scripting, Conda, Anaconda                         |
+| **Structural Biology**| AMDock, AutoDock, PDB tools, PyMOL, ChimeraX, SWISS-MODEL                        |
+| **AI & ML (beginner)**| Scikit-learn (WIP), TensorFlow (basic exposure), ChatGPT APIs (workflow aid)     |
+| **Public Databases**  | NCBI (GenBank, GEO, RefSeq), KEGG, UniProt, MetaCyc, Rhea                         |
+| **Version Control**   | Git, GitHub, Git CLI                                                              |
+| **Others**            | Zotero (reference management), Jupyter, VS Code, ResearchRabbit, Anki             |
+
 
 ---
 
@@ -57,7 +64,7 @@ For a full list, see [my learning repo →](https://github.com/yourusername/cert
 
 I’m always open to research collaborations, open-source work, and projects at the intersection of biology and code.
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link](https://www.linkedin.com/in/john-adedeji2/))  
+[![LinkedIn](https://www.linkedin.com/in/john-adedeji2/)  
 📫 **Email**: johnnaadedeji2018@gmail.com
 
 ---
