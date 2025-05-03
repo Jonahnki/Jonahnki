@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Adedeji John — genome-alchemist
+# 👋 Hello, I’m John Adedeji— genome-alchemist
 
 **Medical student | Genomics tinkerer | Systems thinker with a molecular lens**  
 **Curious about life’s code and driven to rewrite it for better health and a better planet.**
