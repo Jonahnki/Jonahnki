@@ -50,21 +50,18 @@ Watch out!
 
 ## 🎓 Certifications & Learning Highlights
 
-- **Interpreting Genomic Variation** – Wellcome Connecting Science  
-- **Fundamentals of Flow Cytometry & Western Blotting** – Bio-Rad Laboratories  
-- **Disease Modeling & Target Discovery** – Insilico Medicine  
-- **Mouse Genetics Series (11 courses)** – The Jackson Laboratory  
-- **Antimicrobial Resistance and NGS** – USAID, OpenWHO, and Wellcome
+I've pursued rigorous learning from institutions like **Wellcome Connecting Science**, **Bio-Rad**, **The Jackson Laboratory**, **USAID**, **Helix Biogen**, and others.
 
-For a full list, see [my learning repo →](https://github.com/yourusername/certifications)
+📂 **[certifications-and-learning →](https://github.com/Jonahnki/certifications-and-learning)**
 
 ---
 
 ## 🌐 Let’s Collaborate or Connect
 
-I’m always open to research collaborations, open-source work, and projects at the intersection of biology and code.
+I’m always open to research collaborations, open-source work, and projects at the intersection of health and code.
 
-[![LinkedIn](https://www.linkedin.com/in/john-adedeji2/)]  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-adedeji2/)  
+
 📫 **Email**: johnnaadedeji2018@gmail.com
 
 ---
