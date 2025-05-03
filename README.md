@@ -64,7 +64,7 @@ For a full list, see [my learning repo →](https://github.com/yourusername/cert
 
 I’m always open to research collaborations, open-source work, and projects at the intersection of biology and code.
 
-[![LinkedIn](https://www.linkedin.com/in/john-adedeji2/)  
+[![LinkedIn](https://www.linkedin.com/in/john-adedeji2/)]  
 📫 **Email**: johnnaadedeji2018@gmail.com
 
 ---
