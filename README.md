@@ -1,50 +1,56 @@
-# 👋 Hello, I’m John Adedeji— genome-alchemist
+# 👋 Hello, I'm John Adedeji — genome-alchemist
 
-**Medical student | Genomics tinkerer | Systems thinker with a molecular lens**  
-**Curious about life’s code and driven to rewrite it for better health and a better planet.**
+**Physician | Computational Biologist | Systems thinker with a molecular lens**  
+**Curious about life's code and driven to rewrite it for better health and a better planet.**
 
 ---
 
 ## 🧬 About Me
 
-I’m a final-year medical student with an eye on the molecular world and a foot in computational biology.  
-Born in Nigeria, trained in medicine, and drawn to **genetics**, **virology**, and **biotech innovation**,  
+I'm a physician with an eye on the molecular world and a foot firmly in computational biology.  
+Born in Nigeria, trained in medicine, and drawn to **oncology**, **spatial genomics**, and **structural immunoinformatics**,  
 I see coding and biology as two dialects of the same language — both capable of transformation.
 
-My passion lies at the intersection of **genetic engineering, public health, and planetary resilience**.  
-Whether it’s decoding pathogen evolution or building microbial systems for Mars, I pursue problems with both **rigor and creativity**.
+My research sits at the intersection of **computational oncology, spatial genomics, and host-pathogen structural biology**.  
+Whether it's modelling how immune receptors read pathogen structure or building microbial systems for Mars, I pursue problems with both **rigor and creativity**.
 
 ---
 
-## 🌱 What I’m Currently Exploring
+## 🌱 What I'm Currently Exploring
 
-- 🔬 Engineering _Bacillus subtilis_ for **perchlorate biodegradation** in Martian analogs  
-- 🦠 Genomic epidemiology tools to **track viral mutations** across diverse populations  
-- 🧪 Using **Biopython and R** to build pipelines for mutation mapping, sequence retrieval, and visual analytics  
-- 🧠 Designing interventions where **AI, data science, and biology converge** — from outbreak prediction to precision therapeutics
+- 🧫 Structure-based modelling of HLA–peptide and receptor–ligand interactions using AlphaFold3 and PRODIGY
+- 🗺️ Spatial transcriptomics approaches to bacterial effector–host receptor interactions (Visium)
+- 🦠 Structural reassessment of molecular mimicry in vaccine-associated myocarditis
+- 🧪 nf-core DSL2 pipeline development and contributions to the open-source bioinformatics ecosystem
 
 ---
 
 ## 🧰 Tools & Tech I Work With
 
-| Category             | Tools & Languages                                                                 |
-|----------------------|------------------------------------------------------------------------------------|
-| **Languages**         | Python, R, Bash, Markdown, LaTeX                                                  |
-| **Bioinformatics**    | Biopython, NCBI EDirect, Galaxy, BLAST, MEGA, SnapGene Viewer, Clustal Omega      |
-| **Data Science & Viz**| Pandas, Matplotlib, Seaborn, ggplot2, tidyverse, Streamlit, Excel                 |
-| **Genomics**          | Ensembl, UCSC Genome Browser, SRA Toolkit, FASTA/FASTQ, BEDTools                  |
-| **Linux & CLI**       | Arch Linux, Ubuntu, Git, Shell scripting, Conda, Anaconda                         |
-| **Structural Biology**| AMDock, AutoDock, PDB tools, PyMOL, ChimeraX, SWISS-MODEL                        |
-| **AI & ML (beginner)**| Scikit-learn (WIP), TensorFlow (basic exposure), ChatGPT APIs (workflow aid)     |
-| **Public Databases**  | NCBI (GenBank, GEO, RefSeq), KEGG, UniProt, MetaCyc, Rhea                         |
-| **Version Control**   | Git, GitHub, Git CLI                                                              |
-| **Others**            | Zotero (reference management), Jupyter, VS Code, ResearchRabbit, Anki             |
-
+| Category               | Tools & Languages                                                                 |
+|-------------------------|------------------------------------------------------------------------------------|
+| **Languages**            | Python, R, Bash, Nextflow DSL2, Markdown, LaTeX                                   |
+| **Structure Prediction** | AlphaFold3, ESMFold, SWISS-MODEL                                                  |
+| **Binding & Interfaces**  | PRODIGY (BonvinLab/WeNMR), Foldseek, TM-align, pymol-open-source                  |
+| **Bioinformatics**       | Biopython, NCBI EDirect, BLAST, Clustal Omega, ElliPro (IEDB)                     |
+| **Pipeline Development** | nf-core/tools, nf-test, pre-commit, Nextflow DSL2                                 |
+| **Data Science & Viz**   | Pandas, Matplotlib, Seaborn, ggplot2, tidyverse                                   |
+| **Genomics**             | Ensembl, UCSC Genome Browser, SRA Toolkit, FASTA/FASTQ, BEDTools, NetMHCpan       |
+| **Linux & CLI**          | Arch Linux, Ubuntu, Git, Shell scripting                                          |
+| **Public Databases**     | NCBI (GenBank, GEO, RefSeq), UniProt, PDB, COSMIC, KEGG                           |
+| **Version Control**      | Git, GitHub, Git CLI                                                              |
+| **Others**               | Zotero, Jupyter, VS Code, ResearchRabbit, Anki                                    |
 
 ---
 
 ## 🧪 Featured Projects
-Watch out!
+
+- 🔬 **[GRIMER](https://github.com/nf-core/modules/pull/11663)** — nf-core DSL2 module contribution for metagenomics contamination visualisation, built for the May 2026 nf-core × VirJenDB Virus Bioinformatics Hackathon
+- 🦠 **[metaViraVerse](https://github.com/EBI-Metagenomics/metaviraverse)** — viral protein structure subworkflow contribution, EBI-Metagenomics
+- 🧫 **[Regolyx](https://github.com/Jonahnki/regolyx)** — codon optimization pipeline for perchlorate-reducing enzymes in *B. subtilis*, targeting Martian regolith bioremediation
+- 🧬 **[TRACE](https://github.com/Jonahnki/TRACE)** — *update repo link*
+- 💊 **[RareXDrug](https://github.com/Jonahnki/RareXDrug)** — *update repo link*
+- 🤖 **[RepurposAI](https://github.com/Jonahnki/RepurposAI)** — *update repo link*
 
 ---
 
@@ -56,16 +62,22 @@ I've pursued rigorous learning from institutions like **Wellcome Connecting Scie
 
 ---
 
-## 🌐 Let’s Collaborate or Connect
+## 📊 GitHub Stats
 
-I’m always open to research collaborations, open-source work, and projects at the intersection of health and code.
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonahnki&show_icons=true&theme=default)
+
+![Profile views](https://komarev.com/ghpvc/?username=Jonahnki&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+## 🌐 Let's Collaborate or Connect
+
+I'm always open to research collaborations, open-source work, and projects at the intersection of health and code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-adedeji2/)  
-
 📫 **Email**: johnnaadedeji2018@gmail.com
 
 ---
 
-> _“We inherit the genetic script. But what we do with it — that’s the future I’m coding for.”_  
+> _"We inherit the genetic script. But what we do with it — that's the future I'm coding for."_  
 > — Adedeji John // `@genome-alchemist`
-
